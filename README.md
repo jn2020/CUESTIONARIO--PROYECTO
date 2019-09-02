@@ -3,7 +3,8 @@
 #         FORMATO ENCUESTA 
 Se realizo  el formato de La encuesta   para la recolección de información una herramienta de investigación **la información se recoge a través de preguntas**. La intención de la encuesta no es describir a los individuos particulares que por casualidad son parte de la muestra, sino que se trata de describir un perfil estadístico de la población y los resultados de **la encuesta** se presentan en forma de resúmenes, tablas y gráficos estadísticos.
 
-*Modelo de formato :** 
+*Modelo de formato :
+
 ![enter image description here](https://lh3.googleusercontent.com/2TVaNdzxiv-Mo4Kcl-jBo6LRDwlFpsge0vIzw2ip7pE73E5LhhJwmXqht8pgpx7_q91aaKyQYIW4 "formato")
 
 # Aplicación  De Encuesta 
