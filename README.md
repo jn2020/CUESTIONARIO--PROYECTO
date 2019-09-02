@@ -19,4 +19,4 @@ Se evaluó el personal  y se aplico la encuesta a la persona encargada, en este 
 ![enter image description here](https://lh3.googleusercontent.com/TzhystEfV-uVVmVe-qA75at6yY0Wv_s5Y4hSIO6jadOEFqwITJUCzkHw_ay7xLmlgjdUTE7V57oY "eu3")
 ![enter image description here](https://lh3.googleusercontent.com/TzhystEfV-uVVmVe-qA75at6yY0Wv_s5Y4hSIO6jadOEFqwITJUCzkHw_ay7xLmlgjdUTE7V57oY "e4")
 
-**Se realizo investigación, se enfoco el cuestionario al inventario del almacén.**![enter image description here](https://lh3.googleusercontent.com/o1SPkD-dSwiam4YzNR9FRUjLqhzi1rLcUjGEBbDVq4hjQSt3FU88V4-uk_FN38Vau_GuE0c47M-W "gracias")
+**Se realizo investigación, se enfoco el la encuesta  al inventario del almacén.**![enter image description here](https://lh3.googleusercontent.com/o1SPkD-dSwiam4YzNR9FRUjLqhzi1rLcUjGEBbDVq4hjQSt3FU88V4-uk_FN38Vau_GuE0c47M-W "gracias")
