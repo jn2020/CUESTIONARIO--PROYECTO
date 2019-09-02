@@ -12,6 +12,8 @@ Cuando utilizamos un encuesta  en una investigación, debemos decidir cuál va a
 -   El presupuesto del que dispongamos.
 -   El tiempo de que dispongamos.
 Se evaluó el personal  y se aplico la encuesta a la persona encargada, en este caso  al dueño del almacén.
+
+
 ![enter image description here](https://lh3.googleusercontent.com/TN1pAt4NtJZOhwJojphDz7rUXvUQRa8vksFMMEog85BdH3aBfrqLbO17HSKdoRQkfcnQ0aHtL_FC "encue1")
 ## ![enter image description here](https://lh3.googleusercontent.com/_6CcNmI0_1vB8Tq-wvlAVkehFvLxmTkA56-ydLejPrDNLWrlHXlxQulAcGXQJRglmiZlcwdWJE0h "eu2")
 ![enter image description here](https://lh3.googleusercontent.com/TzhystEfV-uVVmVe-qA75at6yY0Wv_s5Y4hSIO6jadOEFqwITJUCzkHw_ay7xLmlgjdUTE7V57oY "eu3")
